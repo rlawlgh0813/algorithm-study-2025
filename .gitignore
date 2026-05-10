@@ -1,0 +1,14 @@
+# Build outputs
+*.out
+*.exe
+*.o
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local scratch
+scratch/
+input.txt
+output.txt
